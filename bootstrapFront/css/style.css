@@ -1,0 +1,147 @@
+.BackgroundNavbar {
+    background-color: rgb(144, 251, 191);
+}
+.ColorButton {
+    background-color:rgb(5, 110, 14)!important;
+}
+.ColorButton:hover {
+    background-color: rgb(156, 236, 136);
+    border:1px solid #125821;
+    transition:0.5s all linear;
+}
+.link {
+    color:rgb(8, 65, 32)!important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif!important;
+}
+.link:hover {
+    color:#ffffff!important;
+    transition: 0.3s all linear!important;
+    background-color: rgb(14, 53, 16)!important;
+    border-color: darkcyan!important;
+    border-radius: 3px!important;
+    box-shadow: 2px 2px 2px #02380e!important;
+}
+.paddingLinkMenu {
+    padding-left:10px!important;
+    padding-right:10px!important;
+}
+.subMenuLink {
+    color: #353535;
+    font-family: Verdana, Geneva, Tahoma, sans-serif!important;
+    display: block!important;
+}
+.subMenuLink:hover {
+    background-color: #353535!important;
+    color:#ffcc01!important;
+    display: block!important;
+    transition:0.3s all linear!important;
+}
+.text {
+    font-size:24px!important;
+    color:#353535!important;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif!important;
+    font-style:italic;
+    margin-top:5px!important;
+    font-weight: 100!important;
+}
+.img {
+    visibility:hidden!important;
+}
+ul li img:hover {
+    visibility:visible!important;
+    display:block!important;
+}
+.image {
+    max-width:100%!important;
+    min-height:900px!important;
+    background-image:url("../../images/image.jpg")!important;
+    background-size:cover!important;
+    background-repeat:no-repeat!important;
+    background-position:center!important;
+}
+.padding1 {
+    background-color:#353535!important;
+}
+.H2 {
+    font-size:24px!important;
+    color:green!important;
+    line-height:50px!important;
+    text-shadow: 2px 2px 2px #ffffff!important;
+}
+.h3 {
+    font-size:14px!important;
+    color:rgb(9, 66, 4)!important;
+    font-family:Arial, Helvetica, sans-serif!important;
+    font-style:normal!important;
+    margin-top:5px!important;
+    word-spacing: 2px!important;
+}
+.imagesDemostracao {
+    max-width:300px!important;
+}
+.imgRedesSociais:hover {
+    color: black!important;
+    border:0px!important;
+    border-radius: 3px!important;
+    box-shadow:3px 3px 5px black!important;
+    transition:0.3s all linear!important;
+}
+.colorIconButton {
+    color: aqua!important;
+}
+.backgroundImage {
+    max-width:100%!important;
+    min-height:800px!important;
+    background-image:url("../../images/background.jpg")!important;
+    background-size:cover!important;
+    background-repeat:no-repeat!important;
+    background-position:center!important;
+}
+.BackgroundDescription {
+    background-color: #befacb!important;
+}
+.BackgroundPadding1 {
+    background-color: #125821!important;
+}
+.BackgroundSection {
+    background-color: #befacb!important;
+}
+.descriptionLaboratorio {
+    font-size:16px!important;
+    font-style: initial!important;
+    color: #093613!important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif!important;
+    font-weight: bold!important;
+}
+.ImageAeria {
+    border: 1px solid #353535!important;
+    border-radius: 2px!important;
+}
+.ImagePostoVenda {
+    border-radius: 2px!important;
+}
+.carouselAltura {
+    max-width: 100%!important;
+    min-height:500px!important;
+}
+.backgroundImagesPiscicultura {
+    background-size: contain!important;
+}
+.legendsImages {
+    background-size: contain!important;
+}
+.backgroundFooter {
+    background-color: #02380e!important;
+    line-height:60px!important;
+    font-size:16px!important;
+}
+.imgHistory {
+    max-width:100%!important;
+    background-image: url("../../images/img_history.jpg")!important;
+    background-size:cover!important;
+    background-repeat:no-repeat!important;
+    background-position:center!important;
+}
+.descriptionEspecies {
+    color: #02380e!important;
+}
